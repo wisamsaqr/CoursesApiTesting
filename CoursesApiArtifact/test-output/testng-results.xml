@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-09T18:12:27 EET" name="Default suite" finished-at="2021-11-09T18:12:30 EET" duration-ms="3318">
+    <groups>
+    </groups>
+    <test started-at="2021-11-09T18:12:27 EET" name="Default test" finished-at="2021-11-09T18:12:30 EET" duration-ms="3318">
+      <class name="courses_api_test.CoursesApiTestSuite">
+        <test-method is-config="true" signature="configs()[pri:0, instance:courses_api_test.CoursesApiTestSuite@b62d79]" started-at="2021-11-09T18:12:27 EET" name="configs" finished-at="2021-11-09T18:12:28 EET" duration-ms="1067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configs -->
+        <test-method signature="CreateCourse()[pri:1, instance:courses_api_test.CoursesApiTestSuite@b62d79]" started-at="2021-11-09T18:12:28 EET" name="CreateCourse" finished-at="2021-11-09T18:12:30 EET" duration-ms="1803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateCourse -->
+        <test-method signature="getCourse()[pri:2, instance:courses_api_test.CoursesApiTestSuite@b62d79]" started-at="2021-11-09T18:12:30 EET" name="getCourse" finished-at="2021-11-09T18:12:30 EET" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCourse -->
+        <test-method signature="updateCoursePut()[pri:3, instance:courses_api_test.CoursesApiTestSuite@b62d79]" started-at="2021-11-09T18:12:30 EET" name="updateCoursePut" finished-at="2021-11-09T18:12:30 EET" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateCoursePut -->
+        <test-method signature="updateCoursePatch()[pri:4, instance:courses_api_test.CoursesApiTestSuite@b62d79]" started-at="2021-11-09T18:12:30 EET" name="updateCoursePatch" finished-at="2021-11-09T18:12:30 EET" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateCoursePatch -->
+        <test-method signature="DeleteCourse()[pri:5, instance:courses_api_test.CoursesApiTestSuite@b62d79]" started-at="2021-11-09T18:12:30 EET" name="DeleteCourse" finished-at="2021-11-09T18:12:30 EET" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteCourse -->
+        <test-method signature="getCourses()[pri:6, instance:courses_api_test.CoursesApiTestSuite@b62d79]" started-at="2021-11-09T18:12:30 EET" name="getCourses" finished-at="2021-11-09T18:12:30 EET" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCourses -->
+      </class> <!-- courses_api_test.CoursesApiTestSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
